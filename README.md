@@ -6,7 +6,7 @@ This repository contains
 
 This page is organized as follows:
 1. Overview of methods and notations
-1. Simulated epidemic curves at 25% intervention level
+1. [Simulated epidemic curves at 25% intervention level](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-2-simulated-epidemic-curves-at-25-intervention-level)
 1. Simulated epidemic peaks and total outbreak sizes at various intervention level
 
 ## Part 1. Overview of methods and notations
