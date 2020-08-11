@@ -7,7 +7,7 @@ This repository contains
 This page is organized as follows:
 1. [Overview of methods and notations](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-1-overview-of-methods-and-notations)
 1. [Simulated epidemic curves at 25% intervention level](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-2-simulated-epidemic-curves-at-25-intervention-level)
-1. Simulated epidemic peaks and total outbreak sizes at various intervention level
+1. Simulated epidemic peaks and total outbreak sizes at various intervention levels
 
 ## Part 1. Overview of methods and notations
 
@@ -57,3 +57,4 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 * __R_0 = 4.5__. Interventions start on day 15
 <img src="/plots/facebook_curves_randinit_R045_delay15.png" alt="drawing" width="400"/>
   
+## Part 3. Simulated epidemic peaks and total outbreak sizes at various intervention levels
