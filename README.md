@@ -1,7 +1,10 @@
 # Targeted Pandemic Containment Through Identifying Local Contact Network Bottlenecks
 
 This repository contains
-* Extensive simulation results for network epidemic containment through contact edge weight reduction
+* Extensive simulation results for network epidemic containment through contact edge weight reduction, including
+  * comparison with **eigenvector centrality**
+  * simulation results for **R_0 = 1.5, 2.5, 3.5, 4.5**
+  * simulation results for delayed intervention, i.e., interventions are applied **in the middle of the pandemic**  
 * Code and notebooks that reproduce all figures
 
 This page is organized as follows:
