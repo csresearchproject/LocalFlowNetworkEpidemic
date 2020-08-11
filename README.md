@@ -22,4 +22,10 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 
 ## Part 2. Simulated epidemic curves at 25% intervention level
 
-<img src="/epipeak_portlandsub_randinit_R025_delay10.png" alt="drawing" width="400"/>
+### 2.1 - Facebook County dataset
+
+* R_0 = 2.5, interventions start on day 0
+<img src="/plots/facebook_curves_randinit_R025.png" alt="drawing" width="400"/>
+
+* R_0 = 2.5, interventions start on day 15
+<img src="/plots/facebook_curves_randinit_R025_delay15.png" alt="drawing" width="400"/>
