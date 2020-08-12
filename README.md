@@ -11,6 +11,7 @@ This page is organized as follows:
 1. [Overview of methods and notations](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-1-overview-of-methods-and-notations)
 1. [Simulated epidemic curves at 25% intervention level](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-2-simulated-epidemic-curves-at-25-intervention-level)
     1. [Facebook County dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#21---facebook-county-dataset)
+    1. [Wi-Fi Montreal dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#22---wi-fi-montreal-dataset)
 1. [Predicted epidemic peaks and total outbreak sizes at various intervention levels](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-3-predicted-epidemic-peaks-and-total-outbreak-sizes-at-various-intervention-levels)
 
 ## Part 1. Overview of methods and notations
