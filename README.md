@@ -27,37 +27,83 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 
 ### 2.1 - Facebook County dataset
 
-* __R_0 = 2.5__. Interventions start on day 0
+* Facebook County. __R_0 = 2.5__. Interventions start on day 0
 <img src="/plots/facebook_curves_randinit_R025.png" alt="drawing" width="400"/>
 
-* __R_0 = 2.5__. Interventions start on day 15
+* Facebook County. __R_0 = 2.5__. Interventions start on day 15
 <img src="/plots/facebook_curves_randinit_R025_delay15.png" alt="drawing" width="400"/>
 
-* __R_0 = 2.5__. Interventions start on day 30
+* Facebook County. __R_0 = 2.5__. Interventions start on day 30
 <img src="/plots/facebook_curves_randinit_R025_delay30.png" alt="drawing" width="400"/>
 
-* __R_0 = 2.5__. Interventions start on day 45
+* Facebook County. __R_0 = 2.5__. Interventions start on day 45
 <img src="/plots/facebook_curves_randinit_R025_delay45.png" alt="drawing" width="400"/>
 
-* __R_0 = 2.5__. Interventions start on day 60
+* Facebook County. __R_0 = 2.5__. Interventions start on day 60
 <img src="/plots/facebook_curves_randinit_R025_delay60.png" alt="drawing" width="400"/>
 
-* __R_0 = 1.5__. Interventions start on day 0
+* Facebook County. __R_0 = 1.5__. Interventions start on day 0
 <img src="/plots/facebook_curves_randinit_R015.png" alt="drawing" width="400"/>
 
-* __R_0 = 1.5__. Interventions start on day 60
+* Facebook County. __R_0 = 1.5__. Interventions start on day 60
 <img src="/plots/facebook_curves_randinit_R015_delay60.png" alt="drawing" width="400"/>
 
-* __R_0 = 3.5__. Interventions start on day 0
+* Facebook County. __R_0 = 3.5__. Interventions start on day 0
 <img src="/plots/facebook_curves_randinit_R035.png" alt="drawing" width="400"/>
 
-* __R_0 = 3.5__. Interventions start on day 30
+* Facebook County. __R_0 = 3.5__. Interventions start on day 30
 <img src="/plots/facebook_curves_randinit_R035_delay30.png" alt="drawing" width="400"/>
 
-* __R_0 = 4.5__. Interventions start on day 0
+* Facebook County. __R_0 = 4.5__. Interventions start on day 0
 <img src="/plots/facebook_curves_randinit_R045.png" alt="drawing" width="400"/>
 
-* __R_0 = 4.5__. Interventions start on day 15
+* Facebook County. __R_0 = 4.5__. Interventions start on day 15
 <img src="/plots/facebook_curves_randinit_R045_delay15.png" alt="drawing" width="400"/>
+
+### 2.2 - Wi-Fi Montreal dataset
+
+* Wi-Fi Montreal. __R_0 = 2.5__. Interventions start on day 0
+<img src="/plots/montreal_curves_randinit_R025.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 2.5__. Interventions start on day 5
+<img src="/plots/montreal_curves_randinit_R025_delay5.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 1.5__. Interventions start on day 0
+<img src="/plots/montreal_curves_randinit_R015.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 1.5__. Interventions start on day 5
+<img src="/plots/montreal_curves_randinit_R015_delay5.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 3.5__. Interventions start on day 0
+<img src="/plots/montreal_curves_randinit_R035.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 3.5__. Interventions start on day 5
+<img src="/plots/montreal_curves_randinit_R035_delay5.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 4.5__. Interventions start on day 0
+<img src="/plots/montreal_curves_randinit_R045.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 4.5__. Interventions start on day 5
+<img src="/plots/montreal_curves_randinit_R045_delay5.png" alt="drawing" width="400"/>
+
+### 2.3 - Portland Sub.
+
+* Portland Sub. __R_0 = 2.5__. Interventions start on day 0
+<img src="/plots/portlandsub_curves_randinit_R025.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 2.5__. Interventions start on day 10
+<img src="/plots/portlandsub_curves_randinit_R025_delay10.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 3.5__. Interventions start on day 0
+<img src="/plots/portlandsub_curves_randinit_R035.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 3.5__. Interventions start on day 5
+<img src="/plots/portlandsub_curves_randinit_R035_delay5.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 4.5__. Interventions start on day 0
+<img src="/plots/portlandsub_curves_randinit_R045.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 4.5__. Interventions start on day 5
+<img src="/plots/portlandsub_curves_randinit_R045_delay5.png" alt="drawing" width="400"/>
   
 ## Part 3. Simulated epidemic peaks and total outbreak sizes at various intervention levels
