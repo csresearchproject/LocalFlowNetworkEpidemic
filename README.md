@@ -10,7 +10,7 @@ This repository contains
 This page is organized as follows:
 1. [Overview of methods and notations](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-1-overview-of-methods-and-notations)
 1. [Simulated epidemic curves at 25% intervention level](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-2-simulated-epidemic-curves-at-25-intervention-level)
-1. [Predicted epidemic peaks and total outbreak sizes at various intervention levels](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-3-simulated-epidemic-peaks-and-total-outbreak-sizes-at-various-intervention-levels)
+1. [Predicted epidemic peaks and total outbreak sizes at various intervention levels](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-3-predicted-epidemic-peaks-and-total-outbreak-sizes-at-various-intervention-levels)
 
 ## Part 1. Overview of methods and notations
 
@@ -141,3 +141,71 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 * Facebook County. __R_0 = 4.5__ Interventions start on day 15.
 <img src="/plots/facebook_epipeak_randinit_R045_delay15.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R045_delay15.png" alt="drawing" width="400"/>
+
+### 3.2 - Wi-Fi Montreal dataset
+
+* Wi-Fi Montreal. __R_0 = 2.5__ Interventions start on day 0.
+<img src="/plots/montreal_epipeak_randinit_R025.png" alt="drawing" width="400"/>
+<img src="/plots/montreal_episize_randinit_R025.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 2.5__ Interventions start on day 5.
+<img src="/plots/montreal_epipeak_randinit_R025_delay5.png" alt="drawing" width="400"/>
+<img src="/plots/montreal_episize_randinit_R025_delay5.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 1.5__ Interventions start on day 0.
+<img src="/plots/montreal_epipeak_randinit_R015.png" alt="drawing" width="400"/>
+<img src="/plots/montreal_episize_randinit_R015.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 1.5__ Interventions start on day 5.
+<img src="/plots/montreal_epipeak_randinit_R015_delay5.png" alt="drawing" width="400"/>
+<img src="/plots/montreal_episize_randinit_R015_delay5.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 3.5__ Interventions start on day 0.
+<img src="/plots/montreal_epipeak_randinit_R035.png" alt="drawing" width="400"/>
+<img src="/plots/montreal_episize_randinit_R035.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 3.5__ Interventions start on day 5.
+<img src="/plots/montreal_epipeak_randinit_R035_delay5.png" alt="drawing" width="400"/>
+<img src="/plots/montreal_episize_randinit_R035_delay5.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 4.5__ Interventions start on day 0.
+<img src="/plots/montreal_epipeak_randinit_R045.png" alt="drawing" width="400"/>
+<img src="/plots/montreal_episize_randinit_R045.png" alt="drawing" width="400"/>
+
+* Wi-Fi Montreal. __R_0 = 4.5__ Interventions start on day 5.
+<img src="/plots/montreal_epipeak_randinit_R045_delay5.png" alt="drawing" width="400"/>
+<img src="/plots/montreal_episize_randinit_R045_delay5.png" alt="drawing" width="400"/>
+
+### 3.3 - Portland Sub.
+
+* Portland Sub. __R_0 = 2.5__ Interventions start on day 0.
+<img src="/plots/portlandsub_epipeak_randinit_R025.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R025.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 2.5__ Interventions start on day 10.
+<img src="/plots/portlandsub_epipeak_randinit_R025_delay10.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R025_delay10.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 1.5__ Interventions start on day 0.
+<img src="/plots/portlandsub_epipeak_randinit_R025.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R025.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 1.5__ Interventions start on day 20.
+<img src="/plots/portlandsub_epipeak_randinit_R025_delay20.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R025_delay20.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 3.5__ Interventions start on day 0.
+<img src="/plots/portlandsub_epipeak_randinit_R035.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R035.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 3.5__ Interventions start on day 5.
+<img src="/plots/portlandsub_epipeak_randinit_R035_delay5.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R035_delay5.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 4.5__ Interventions start on day 0.
+<img src="/plots/portlandsub_epipeak_randinit_R045.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R045.png" alt="drawing" width="400"/>
+
+* Portland Sub. __R_0 = 4.5__ Interventions start on day 5.
+<img src="/plots/portlandsub_epipeak_randinit_R045_delay5.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R045_delay5.png" alt="drawing" width="400"/>
