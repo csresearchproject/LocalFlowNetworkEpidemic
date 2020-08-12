@@ -187,12 +187,12 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 <img src="/plots/portlandsub_episize_randinit_R025_delay10.png" alt="drawing" width="400"/>
 
 * Portland Sub. __R_0 = 1.5__ Interventions start on day 0.
-<img src="/plots/portlandsub_epipeak_randinit_R025.png" alt="drawing" width="400"/>
-<img src="/plots/portlandsub_episize_randinit_R025.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_epipeak_randinit_R015.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R015.png" alt="drawing" width="400"/>
 
 * Portland Sub. __R_0 = 1.5__ Interventions start on day 20.
-<img src="/plots/portlandsub_epipeak_randinit_R025_delay20.png" alt="drawing" width="400"/>
-<img src="/plots/portlandsub_episize_randinit_R025_delay20.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_epipeak_randinit_R015_delay20.png" alt="drawing" width="400"/>
+<img src="/plots/portlandsub_episize_randinit_R015_delay20.png" alt="drawing" width="400"/>
 
 * Portland Sub. __R_0 = 3.5__ Interventions start on day 0.
 <img src="/plots/portlandsub_epipeak_randinit_R035.png" alt="drawing" width="400"/>
