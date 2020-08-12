@@ -12,7 +12,11 @@ This page is organized as follows:
 1. [Simulated epidemic curves at 25% intervention level](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-2-simulated-epidemic-curves-at-25-intervention-level)
     1. [Facebook County dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#21---facebook-county-dataset)
     1. [Wi-Fi Montreal dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#22---wi-fi-montreal-dataset)
+    1. [Portland Sub. dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#23---portland-sub-dataset)
 1. [Predicted epidemic peaks and total outbreak sizes at various intervention levels](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#part-3-predicted-epidemic-peaks-and-total-outbreak-sizes-at-various-intervention-levels)
+    1. [Facebook County dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#31---facebook-county-dataset)
+    1. [Wi-Fi Montreal dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#32---wi-fi-montreal-dataset)
+    1. [Portland Sub. dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#33---portland-sub-dataset)
 
 ## Part 1. Overview of methods and notations
 
@@ -88,7 +92,7 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 * Wi-Fi Montreal. __R_0 = 4.5__. Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_curves_randinit_R045_delay5.png" alt="drawing" width="400"/>
 
-### 2.3 - Portland Sub.
+### 2.3 - Portland Sub. dataset
 
 * Portland Sub. __R_0 = 2.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_curves_randinit_R025.png" alt="drawing" width="400"/>
@@ -178,7 +182,7 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 <img src="/plots/montreal_epipeak_randinit_R045_delay5.png" alt="drawing" width="400"/>
 <img src="/plots/montreal_episize_randinit_R045_delay5.png" alt="drawing" width="400"/>
 
-### 3.3 - Portland Sub.
+### 3.3 - Portland Sub. dataset
 
 * Portland Sub. __R_0 = 2.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_epipeak_randinit_R025.png" alt="drawing" width="400"/>
