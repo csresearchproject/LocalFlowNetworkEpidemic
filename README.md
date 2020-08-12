@@ -27,185 +27,185 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 
 ### 2.1 - Facebook County dataset
 
-* Facebook County. __R_0 = 2.5__. Interventions start on day 0.
+* Facebook County. __R_0 = 2.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R025.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 2.5__. Interventions start on day 15.
+* Facebook County. __R_0 = 2.5__. Interventions start on day 15. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R025_delay15.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 2.5__. Interventions start on day 30.
+* Facebook County. __R_0 = 2.5__. Interventions start on day 30. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R025_delay30.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 2.5__. Interventions start on day 45.
+* Facebook County. __R_0 = 2.5__. Interventions start on day 45. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R025_delay45.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 2.5__. Interventions start on day 60.
+* Facebook County. __R_0 = 2.5__. Interventions start on day 60. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R025_delay60.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 1.5__. Interventions start on day 0.
+* Facebook County. __R_0 = 1.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R015.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 1.5__. Interventions start on day 60.
+* Facebook County. __R_0 = 1.5__. Interventions start on day 60. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R015_delay60.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 3.5__. Interventions start on day 0.
+* Facebook County. __R_0 = 3.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R035.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 3.5__. Interventions start on day 30.
+* Facebook County. __R_0 = 3.5__. Interventions start on day 30. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R035_delay30.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 4.5__. Interventions start on day 0.
+* Facebook County. __R_0 = 4.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R045.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 4.5__. Interventions start on day 15.
+* Facebook County. __R_0 = 4.5__. Interventions start on day 15. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_curves_randinit_R045_delay15.png" alt="drawing" width="400"/>
 
 ### 2.2 - Wi-Fi Montreal dataset
 
-* Wi-Fi Montreal. __R_0 = 2.5__. Interventions start on day 0.
+* Wi-Fi Montreal. __R_0 = 2.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_curves_randinit_R025.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 2.5__. Interventions start on day 5.
+* Wi-Fi Montreal. __R_0 = 2.5__. Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_curves_randinit_R025_delay5.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 1.5__. Interventions start on day 0.
+* Wi-Fi Montreal. __R_0 = 1.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_curves_randinit_R015.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 1.5__. Interventions start on day 5.
+* Wi-Fi Montreal. __R_0 = 1.5__. Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_curves_randinit_R015_delay5.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 3.5__. Interventions start on day 0.
+* Wi-Fi Montreal. __R_0 = 3.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_curves_randinit_R035.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 3.5__. Interventions start on day 5.
+* Wi-Fi Montreal. __R_0 = 3.5__. Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_curves_randinit_R035_delay5.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 4.5__. Interventions start on day 0.
+* Wi-Fi Montreal. __R_0 = 4.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_curves_randinit_R045.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 4.5__. Interventions start on day 5.
+* Wi-Fi Montreal. __R_0 = 4.5__. Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_curves_randinit_R045_delay5.png" alt="drawing" width="400"/>
 
 ### 2.3 - Portland Sub.
 
-* Portland Sub. __R_0 = 2.5__. Interventions start on day 0.
+* Portland Sub. __R_0 = 2.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_curves_randinit_R025.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 2.5__. Interventions start on day 10.
+* Portland Sub. __R_0 = 2.5__. Interventions start on day 10. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_curves_randinit_R025_delay10.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 3.5__. Interventions start on day 0.
+* Portland Sub. __R_0 = 3.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_curves_randinit_R035.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 3.5__. Interventions start on day 5.
+* Portland Sub. __R_0 = 3.5__. Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_curves_randinit_R035_delay5.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 4.5__. Interventions start on day 0.
+* Portland Sub. __R_0 = 4.5__. Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_curves_randinit_R045.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 4.5__. Interventions start on day 5.
+* Portland Sub. __R_0 = 4.5__. Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_curves_randinit_R045_delay5.png" alt="drawing" width="400"/>
   
 ## Part 3. Predicted epidemic peaks and total outbreak sizes at various intervention levels
 
 ### 3.1 - Facebook County dataset
 
-* Facebook County. __R_0 = 2.5__ Interventions start on day 0.
+* Facebook County. __R_0 = 2.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_epipeak_randinit_R025.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R025.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 2.5__ Interventions start on day 45.
+* Facebook County. __R_0 = 2.5__ Interventions start on day 45. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_epipeak_randinit_R025_delay45.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R025_delay45.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 1.5__ Interventions start on day 0.
+* Facebook County. __R_0 = 1.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_epipeak_randinit_R015.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R015.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 1.5__ Interventions start on day 45.
+* Facebook County. __R_0 = 1.5__ Interventions start on day 45. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_epipeak_randinit_R015_delay45.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R015_delay45.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 3.5__ Interventions start on day 0.
+* Facebook County. __R_0 = 3.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_epipeak_randinit_R035.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R035.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 3.5__ Interventions start on day 30.
+* Facebook County. __R_0 = 3.5__ Interventions start on day 30. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_epipeak_randinit_R035_delay30.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R035_delay30.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 4.5__ Interventions start on day 0.
+* Facebook County. __R_0 = 4.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_epipeak_randinit_R045.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R045.png" alt="drawing" width="400"/>
 
-* Facebook County. __R_0 = 4.5__ Interventions start on day 15.
+* Facebook County. __R_0 = 4.5__ Interventions start on day 15. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_epipeak_randinit_R045_delay15.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R045_delay15.png" alt="drawing" width="400"/>
 
 ### 3.2 - Wi-Fi Montreal dataset
 
-* Wi-Fi Montreal. __R_0 = 2.5__ Interventions start on day 0.
+* Wi-Fi Montreal. __R_0 = 2.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_epipeak_randinit_R025.png" alt="drawing" width="400"/>
 <img src="/plots/montreal_episize_randinit_R025.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 2.5__ Interventions start on day 5.
+* Wi-Fi Montreal. __R_0 = 2.5__ Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_epipeak_randinit_R025_delay5.png" alt="drawing" width="400"/>
 <img src="/plots/montreal_episize_randinit_R025_delay5.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 1.5__ Interventions start on day 0.
+* Wi-Fi Montreal. __R_0 = 1.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_epipeak_randinit_R015.png" alt="drawing" width="400"/>
 <img src="/plots/montreal_episize_randinit_R015.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 1.5__ Interventions start on day 5.
+* Wi-Fi Montreal. __R_0 = 1.5__ Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_epipeak_randinit_R015_delay5.png" alt="drawing" width="400"/>
 <img src="/plots/montreal_episize_randinit_R015_delay5.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 3.5__ Interventions start on day 0.
+* Wi-Fi Montreal. __R_0 = 3.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_epipeak_randinit_R035.png" alt="drawing" width="400"/>
 <img src="/plots/montreal_episize_randinit_R035.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 3.5__ Interventions start on day 5.
+* Wi-Fi Montreal. __R_0 = 3.5__ Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_epipeak_randinit_R035_delay5.png" alt="drawing" width="400"/>
 <img src="/plots/montreal_episize_randinit_R035_delay5.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 4.5__ Interventions start on day 0.
+* Wi-Fi Montreal. __R_0 = 4.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_epipeak_randinit_R045.png" alt="drawing" width="400"/>
 <img src="/plots/montreal_episize_randinit_R045.png" alt="drawing" width="400"/>
 
-* Wi-Fi Montreal. __R_0 = 4.5__ Interventions start on day 5.
+* Wi-Fi Montreal. __R_0 = 4.5__ Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/montreal_epipeak_randinit_R045_delay5.png" alt="drawing" width="400"/>
 <img src="/plots/montreal_episize_randinit_R045_delay5.png" alt="drawing" width="400"/>
 
 ### 3.3 - Portland Sub.
 
-* Portland Sub. __R_0 = 2.5__ Interventions start on day 0.
+* Portland Sub. __R_0 = 2.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_epipeak_randinit_R025.png" alt="drawing" width="400"/>
 <img src="/plots/portlandsub_episize_randinit_R025.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 2.5__ Interventions start on day 10.
+* Portland Sub. __R_0 = 2.5__ Interventions start on day 10. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_epipeak_randinit_R025_delay10.png" alt="drawing" width="400"/>
 <img src="/plots/portlandsub_episize_randinit_R025_delay10.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 1.5__ Interventions start on day 0.
+* Portland Sub. __R_0 = 1.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_epipeak_randinit_R015.png" alt="drawing" width="400"/>
 <img src="/plots/portlandsub_episize_randinit_R015.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 1.5__ Interventions start on day 20.
+* Portland Sub. __R_0 = 1.5__ Interventions start on day 20. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_epipeak_randinit_R015_delay20.png" alt="drawing" width="400"/>
 <img src="/plots/portlandsub_episize_randinit_R015_delay20.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 3.5__ Interventions start on day 0.
+* Portland Sub. __R_0 = 3.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_epipeak_randinit_R035.png" alt="drawing" width="400"/>
 <img src="/plots/portlandsub_episize_randinit_R035.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 3.5__ Interventions start on day 5.
+* Portland Sub. __R_0 = 3.5__ Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_epipeak_randinit_R035_delay5.png" alt="drawing" width="400"/>
 <img src="/plots/portlandsub_episize_randinit_R035_delay5.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 4.5__ Interventions start on day 0.
+* Portland Sub. __R_0 = 4.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_epipeak_randinit_R045.png" alt="drawing" width="400"/>
 <img src="/plots/portlandsub_episize_randinit_R045.png" alt="drawing" width="400"/>
 
-* Portland Sub. __R_0 = 4.5__ Interventions start on day 5.
+* Portland Sub. __R_0 = 4.5__ Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic/blob/master/README.md#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portlandsub_epipeak_randinit_R045_delay5.png" alt="drawing" width="400"/>
 <img src="/plots/portlandsub_episize_randinit_R045_delay5.png" alt="drawing" width="400"/>
