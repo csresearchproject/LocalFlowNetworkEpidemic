@@ -22,7 +22,7 @@ This page is organized as follows:
 
 For viewing compatibility across different platforms, we have kept figure listings in a single column. Click [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks) to return to the top of this page.
 
-## Part 1. Overview of methods and notations
+## Part 1. Overview of methods and notations [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 
 Throughout our experiments, an X% intervention means that we identify X% of all edges and reduce 90% edge weight from each of these edges. For an X% intervention, we compare the following methods for selecting edges:
 * __NI__: No Intervention - No edges are identified for intervention
@@ -33,7 +33,7 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 * __CF__: Current-Flow betweenness - Identify top X% edges according to the current-flow betweenness
 * __LF__(lambda): Local-Flow betweenness - Identify top X% edges according to the lambda-local-flow betweenness
 
-## Part 2. Simulated epidemic curves at 25% intervention level
+## Part 2. Simulated epidemic curves at 25% intervention level [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 
 ### 2.1 - Facebook County dataset
 
@@ -136,7 +136,7 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 * Portland. __R_0 = 4.5__. Interventions start on day 5. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portland_curves_randinit_R045_delay5.png" alt="drawing" width="400"/>
   
-## Part 3. Predicted epidemic peaks and total outbreak sizes at various intervention levels
+## Part 3. Predicted epidemic peaks and total outbreak sizes at various intervention levels [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 
 ### 3.1 - Facebook County dataset
 
