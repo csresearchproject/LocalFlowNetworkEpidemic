@@ -8,13 +8,13 @@ This repository contains
 * Code and notebooks that reproduce all figures
 
 This page is organized as follows:
-1. [Overview of methods and notations](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#part-1-overview-of-methods-and-notations)
-1. [Simulated epidemic curves at 25% intervention level](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#part-2-simulated-epidemic-curves-at-25-intervention-level)
+1. [Overview of methods and notations](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#part-1-overview-of-methods-and-notations-back-to-top)
+1. [Simulated epidemic curves at 25% intervention level](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#part-2-simulated-epidemic-curves-at-25-intervention-level-back-to-top)
     1. [Facebook County dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#21---facebook-county-dataset) (11 figures)
     1. [Wi-Fi Montreal dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#22---wi-fi-montreal-dataset) (8 figures)
     1. [Portland Sub. dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#23---portland-sub-dataset) (6 figures)
     1. [Portland dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#24---portland-dataset) (6 figures)
-1. [Predicted epidemic peaks and total outbreak sizes at various intervention levels](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#part-3-predicted-epidemic-peaks-and-total-outbreak-sizes-at-various-intervention-levels)
+1. [Predicted epidemic peaks and total outbreak sizes at various intervention levels](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#part-3-predicted-epidemic-peaks-and-total-outbreak-sizes-at-various-intervention-levels-back-to-top)
     1. [Facebook County dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#31---facebook-county-dataset) (16 figures)
     1. [Wi-Fi Montreal dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#32---wi-fi-montreal-dataset) (16 figures)
     1. [Portland Sub. dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#33---portland-sub-dataset) (16 figures)
