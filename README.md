@@ -20,6 +20,8 @@ This page is organized as follows:
     1. [Portland Sub. dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#33---portland-sub-dataset) (16 figures)
     1. [Portland dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#34---portland-dataset) (16 figures)
 
+For viewing compatibility across different platforms, we have kept figure listings in a single column. Click [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks) to return to the top of this page.
+
 ## Part 1. Overview of methods and notations
 
 Throughout our experiments, an X% intervention means that we identify X% of all edges and reduce 90% edge weight from each of these edges. For an X% intervention, we compare the following methods for selecting edges:
