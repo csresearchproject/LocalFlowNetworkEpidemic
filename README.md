@@ -252,7 +252,7 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 <img src="/plots/portland_epipeak_randinit_R015.png" alt="drawing" width="400"/>
 <img src="/plots/portland_episize_randinit_R015.png" alt="drawing" width="400"/>
 
-* Portland. __R_0 = 1.5__ Interventions start on day 20. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
+* Portland. __R_0 = 1.5__ Interventions start on day 10. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/portland_epipeak_randinit_R015_delay10.png" alt="drawing" width="400"/>
 <img src="/plots/portland_episize_randinit_R015_delay10.png" alt="drawing" width="400"/>
 
