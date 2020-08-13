@@ -10,13 +10,14 @@ This repository contains
 This page is organized as follows:
 1. [Overview of methods and notations](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#part-1-overview-of-methods-and-notations-back-to-top)
 1. [Simulated epidemic curves at 25% intervention level](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#part-2-simulated-epidemic-curves-at-25-intervention-level-back-to-top)
-    1. [Facebook County dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#21---facebook-county-dataset) (11 figures)
-        1. [Epidemic spread starts from Chicago](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#211---epidemic-spread-starts-from-chicago)
+    1. [Facebook County dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#21---facebook-county-dataset) (13 figures)
+        1. [Reviewer #2: Epidemic spread starts from Chicago](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#211---epidemic-spread-starts-from-chicago)
     1. [Wi-Fi Montreal dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#22---wi-fi-montreal-dataset) (8 figures)
     1. [Portland Sub. dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#23---portland-sub-dataset) (6 figures)
     1. [Portland dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#24---portland-dataset) (6 figures)
 1. [Predicted epidemic peaks and total outbreak sizes at various intervention levels](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#part-3-predicted-epidemic-peaks-and-total-outbreak-sizes-at-various-intervention-levels-back-to-top)
-    1. [Facebook County dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#31---facebook-county-dataset) (16 figures)
+    1. [Facebook County dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#31---facebook-county-dataset) (20 figures)
+        1. [Reviewer #2: Epidemic spread starts from Chicago](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#311---epidemic-spread-starts-from-chicago)
     1. [Wi-Fi Montreal dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#32---wi-fi-montreal-dataset) (16 figures)
     1. [Portland Sub. dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#33---portland-sub-dataset) (16 figures)
     1. [Portland dataset](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#34---portland-dataset) (16 figures)
@@ -180,6 +181,16 @@ Throughout our experiments, an X% intervention means that we identify X% of all 
 * Facebook County. __R_0 = 4.5__ Interventions start on day 15. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
 <img src="/plots/facebook_epipeak_randinit_R045_delay15.png" alt="drawing" width="400"/>
 <img src="/plots/facebook_episize_randinit_R045_delay15.png" alt="drawing" width="400"/>
+
+#### 3.1.1 - Epidemic spread starts from Chicago
+
+* Facebook County, epidemic spread starts from Chicago. __R_0 = 2.5__ Interventions start on day 0. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
+<img src="/plots/facebook_epipeak_chicago_R025.png" alt="drawing" width="400"/>
+<img src="/plots/facebook_episize_chicago_R025.png" alt="drawing" width="400"/>
+
+* Facebook County, epidemic spread starts from Chicago. __R_0 = 2.5__ Interventions start on day 45. [[back to top]](https://github.com/csresearchproject/LocalFlowNetworkEpidemic#targeted-pandemic-containment-through-identifying-local-contact-network-bottlenecks)
+<img src="/plots/facebook_epipeak_chicago_R025_delay45.png" alt="drawing" width="400"/>
+<img src="/plots/facebook_episize_chicago_R025_delay45.png" alt="drawing" width="400"/>
 
 ### 3.2 - Wi-Fi Montreal dataset
 
